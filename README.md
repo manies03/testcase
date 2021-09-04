@@ -1,3 +1,3 @@
 # testcase
 love pesasu
-love guru
+love gure
